@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/demo" />
+    <file type="web" url="file://$PROJECT_DIR$/react_crud" />
     <file type="web" url="file://$PROJECT_DIR$/react_Test1" />
     <file type="web" url="file://$PROJECT_DIR$/react_Test2" />
     <file type="web" url="file://$PROJECT_DIR$/test" />
